@@ -49,7 +49,6 @@ function! s:popup_yaruo() abort
     \ }
     \ )
     call win_execute(win_id, 'syntax enable')
-    let s:is_visible = 1
 endfunction
 
 function! yaruo#show(num_of_space) abort
