@@ -9,6 +9,7 @@ Show yaruo.
 
 ```
 ShowYaruo [num of space]
+PopupYaruo
 ```
 
 ## Installation
