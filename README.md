@@ -12,6 +12,9 @@ ShowYaruo [num of space]
 PopupYaruo
 ```
 
+## Note
+"PopupYaruo" Only works on Vim8.2 higher.
+
 ## Installation
 
 ```
